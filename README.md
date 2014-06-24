@@ -1,4 +1,4 @@
-# Pull Request Challenge
+# Pull Request Challenge THIS IS GONNA BE AWESOME 
 
 In order to get instructions for the next part of the challenge, you need to submit a pull request to this repository with your encrypted email address as the title.
 
